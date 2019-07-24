@@ -1,0 +1,8 @@
+PR....210|124.60|BlackBerry 8100 Pearl
+PR....211|139.45|Sony Ericsson W810i
+PR....212|97.80|Samsung MM-A900M Ace
+PR....213|166.20|Toshiba M285-E 14
+PR....214|145.50|Nokia 2610 Phone
+PR....215|190.70|CN Clogs Beach/Garden Clog
+PR....216|289.20|AT&T 8525 PDA
+PR....217|13.70|Canon Digital Rebel XT 8MP
