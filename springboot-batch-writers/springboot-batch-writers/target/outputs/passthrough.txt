@@ -1,8 +1,0 @@
-Product [id=PR....210, name=BlackBerry 8100 Pearl]
-Product [id=PR....211, name=Sony Ericsson W810i]
-Product [id=PR....212, name=Samsung MM-A900M Ace]
-Product [id=PR....213, name=Toshiba M285-E 14]
-Product [id=PR....214, name=Nokia 2610 Phone]
-Product [id=PR....215, name=CN Clogs Beach/Garden Clog]
-Product [id=PR....216, name=AT&T 8525 PDA]
-Product [id=PR....217, name=Canon Digital Rebel XT 8MP]
