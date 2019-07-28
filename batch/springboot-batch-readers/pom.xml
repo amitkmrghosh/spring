@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.javainuse</groupId>
-	<artifactId>springboot-batch-FlatFile</artifactId>
+	<artifactId>springboot-batch-readers</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
