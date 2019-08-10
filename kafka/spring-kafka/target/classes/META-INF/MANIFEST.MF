@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-kafka
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: amitkumarghosh
+Implementation-Vendor-Id: com.baeldung
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-kafka
+Created-By: Maven Integration for Eclipse
+
