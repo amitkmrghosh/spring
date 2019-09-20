@@ -16,8 +16,8 @@ public class SampleCamelRoute extends RouteBuilder {
     rest().get("/hello")
       .to("direct:hello");
  
-    from("direct:hello")
-      .log(LoggingLevel.INFO, "Hello World")
-      .transform().simple("Hello World");
+//    from("direct:hello")
+//      .log(LoggingLevel.INFO, "Hello World")
+//      .transform().simple("Hello World");
    }
 }

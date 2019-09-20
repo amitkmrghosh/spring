@@ -2,7 +2,7 @@ package com.example.springcamel.processor;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
-import org.apache.commons.httpclient.HttpStatus;
+import org.apache.http.HttpStatus;
 
 public class HelloProcessor implements Processor {
 
