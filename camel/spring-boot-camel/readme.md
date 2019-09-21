@@ -7,4 +7,4 @@ http://localhost:8096/api/users[ {
 }, {
   "id" : 3,
   "name" : "Sonny Rollins"
-} ]http://localhost:8096/api/hello
+} ]http://localhost:8096/api/hellohttp://localhost:8096/api/api-doc
