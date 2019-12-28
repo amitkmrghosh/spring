@@ -1,2 +1,4 @@
 http://localhost:8096/v3/api-docs
 http://localhost:8096/swagger-ui.html
+
+Reference : https://github.com/springdoc/springdoc-openapi-demos
